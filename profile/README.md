@@ -2,6 +2,9 @@
 ## Working package 2: Characterization and detection of extremist narratives
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+> [!NOTE]  
+> The repositories are private. To request private access, please contact rayane.ghilene@ensea.fr.
+
 ![ARENAS Project EU](https://github.com/ARENAS-Project-EU/Graph_Structure_Learning/blob/main/plots/Arenas-final-GIF.gif)
 
 
